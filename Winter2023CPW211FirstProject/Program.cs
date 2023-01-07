@@ -7,3 +7,5 @@ for (int i = 0; i < 25; i++)
 }
 
 Console.WriteLine("Thank you for testing out my project!");
+
+Console.WriteLine("I added a branch named AddUserGreeting to my source control.");
