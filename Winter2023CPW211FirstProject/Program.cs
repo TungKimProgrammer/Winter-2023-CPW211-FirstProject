@@ -1,2 +1,2 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, GitHub!");
+﻿Console.WriteLine("Hello, GitHub!");
+Console.WriteLine("This project is my first .NET assignment for CPW211 using GitHub");
