@@ -8,3 +8,5 @@ This project is my first .NET assignment for CPW211 using GitHub
 
 ### Additional steps:
 - Created a branch
+- Pulled and Merged a branch
+- Deleted a branch
